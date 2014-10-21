@@ -8,7 +8,7 @@ using the following URL (customized for your code):
 
 https://github.com/[user]/[repo]/blob/[branch]/[OPT-folder?]/[filename]#L[from line]-[to line]
 
-Now you can highlight a specific section of any code in any repo on github!  
+You can highlight a specific section of any code in any repo on github!  
 
 I can see where this would be super useful for pointing out problems
 
