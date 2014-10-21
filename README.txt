@@ -6,9 +6,15 @@ Update: I didn't know it before, but you can annotate any part of your code, and
 
 using the following URL (customized for your code): 
 
-https://github.com/[user]/[repo]/blob/[branch]/[folder?]/[filename]#L[from line]-[to line]
+https://github.com/[user]/[repo]/blob/[branch]/[OPT-folder?]/[filename]#L[from line]-[to line]
 
-Like this: 
+Now you can highlight a specific section of any code in any repo on github!  
 
-https://github.com/cmw48/cmw48_gittest/blob/README.txt#L3-5
+I can see where this would be super useful for pointing out problems
+
+as in, "Hey, dumbass-- have another look at this section of code."
+
+Like this!
+
+https://github.com/cmw48/cmw48_gittest/blob/master/README.txt#L11-15
 
